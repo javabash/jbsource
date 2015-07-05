@@ -1,0 +1,8 @@
+Title: test_post2
+Date: 2015-06-29 22:27
+Category: Test
+
+What is the difference between a Pelican and a stork?
+:::python
+System.out.println("hello test_post2");
+

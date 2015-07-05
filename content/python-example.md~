@@ -1,0 +1,18 @@
+Title: Python Example
+Date: 2015-07-03 19:32
+Category: Python
+
+What is the difference between a Pelican and a stork?
+
+:::python
+    import sys
+    try:
+        total=sum(int(arg) for arg in sys.argv[1:])
+        print 'sum=', total
+    except ValueError:
+        print 'Please supply integer arguments'
+
+
+
+System.out.println("hello test_post2");
+
