@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Phil GeLinas'
 SITENAME = u'JavaBash'
 SITEURL = 'http://www.javabash.com'
-THEME = '../pelican-blueidea'
+THEME = 'pelican-blueidea'
 DISQUS_SITENAME = 'javabash'
 DISQUS_SHORTNAME = 'javabash'
 PATH = 'content'
@@ -26,6 +26,6 @@ SOCIAL = (('Twitter', '#'),
           ('GitHub', '#'),)
 DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 DISPLAY_PAGES_ON_MENU = True
 DELETE_OUTPUT_DIRECTORY = False
